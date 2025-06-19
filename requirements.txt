@@ -1,0 +1,7 @@
+black>=22.0.0
+duckdb>=1.2.1
+jupysql>=0.10.0
+pandas>=1.5.0
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+duckdb-engine>=0.9.0 
