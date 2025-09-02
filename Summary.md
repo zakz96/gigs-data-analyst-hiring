@@ -15,8 +15,8 @@
 
 **Recommendations**
 
-1. For under-utilized plans, consider introducing an intermediate tier to better match demand and lift utilization.
-2. For Unlimited plans, assess top-decile usage as a cost risk (p90 = 24 GB). Evaluate whether fair-use caps are appropriate; this will require cost data and clarity on company priorities.
+1. For under-utilized plans, consider introducing an intermediate tier to better match demand and lift utilization and retension, however we need to understand the revenue trade-offs here.
+2. For Unlimited plans, assess top-decile usage as a cost risk (p90 = 24 GB). Evaluate if we should introduce fair-use caps, which will require data on unit economics and if this aligns with company priorities (e.g. increase adoption vs optimising costs).
 3. People Mobile is the first API product for mobile phones. Investigate drivers of lower retention: compare user demographics, product features, and experience (e.g., onboarding, billing/renewal, notifications) against the two other projects. If comparability is limited, deep-dive into People Mobile user behaviour and run A/B tests to improve retention.
 4. Conduct market analysis and A/B testing on plan design and consider expanding add-ons (e.g., hotspot, roaming bundles).
 
