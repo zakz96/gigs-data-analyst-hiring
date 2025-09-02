@@ -9,7 +9,7 @@
   - **5 GB**: 887 subscriptions; median **392 MB**; mean **1.75 GB**; IQR **25 MB–2.5 GB**. **Average utilization: 35%.**
   - **Unlimited**: 1,722 subscriptions; median **2.2 GB**; mean **10.1 GB**; IQR **72 MB–10.8 GB**.
   - **Observation:** 1 GB and 5 GB plans show low utilization. 0 GB and Unlimited plans both exhibit a long tail of heavy users.
-  - **Data per dollar:** Unlimited Data users consumed **123 MB/\\$**, Ultra Unlimited **763 MB/\\$**, Easy Plan (1 GB) **12 MB/\\$**. These are the plans with the highest amount data consumed and ordered in decreasing order.
+  - **Data per dollar:** Unlimited Data users consumed **123 MB/\$**, Ultra Unlimited **763 MB/\$**, Easy Plan (1 GB) **12 MB/\$**. These are the plans with the highest amount data consumed and ordered in decreasing order.
 - **Data usage is highly volatile.** Excluding subscriptions with only one reporting period. For each subscription, we compute each month's change relative to the previous month, and for **79% of subscriptions, the average of month-on-month changes exceeds 50%.**
 - **Retention:** The latest project (**People Mobile**) underperforms older projects: **37% after 1 month**, **12% after 2 months**. The first project (**ACME Phone**) leads with **88% after 1 month**, **78% after 2 months**, and **55% after 6 months**.
 
