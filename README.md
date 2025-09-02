@@ -1,4 +1,4 @@
-# Senior Data Analyst Hiring Challenge EDITED
+# Senior Data Analyst Hiring Challenge
 👋 Welcome to Gigs' Senior Data Analyst take-home challenge!
 > We will never use the code you provide for anything outside of the interview process! 
 
